@@ -1,4 +1,5 @@
 git is awesome!
-new line
+Hexlt - it's cool!
+
 experiment with amend
 new data
